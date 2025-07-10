@@ -1,0 +1,72 @@
+html {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #000000;
+    font-family: "Fraunces", serif;
+    overflow-x: hidden;
+
+}
+
+#mainnavbar .navbar-brand {
+    color: white;
+    font-family: "Orbitron", sans-serif;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-shadow: 0 0 8px #4cc9f0;
+}
+
+#mainnavbar .nav-link {
+    color: #aaebff;
+}
+
+#mainnavbar .nav-link:hover {
+    color: #e2f2fc;
+    text-shadow: 0 0 8px #4cc9f0;
+}
+
+#mainnavbar {
+    font-family: "Orbitron", sans-serif;
+
+
+}
+
+.content {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h2 {
+    font-family: "Orbitron", sans-serif;
+    padding-bottom: 15px;
+
+    text-shadow: 0 0 8px #4cc9f0;
+}
+
+p {
+    color: #d0eff9;
+    letter-spacing: 1px;
+    line-height: 1.7;
+    font-weight: 200;
+
+}
+
+.navbar.scrolled {
+    background-color: #000000;
+    box-shadow: 0 2px 10px white;
+    transition: all 500ms;
+
+}
+
+footer {
+    background-color: #000000;
+    /* dark spacey blue */
+    color: #ffffff;
+    text-align: center;
+    padding: 1rem 0;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.4rem;
+    box-shadow: 0 -1px 10px rgb(255, 255, 255);
+    text-shadow: 0 0 8px #4cc9f0;
+}
